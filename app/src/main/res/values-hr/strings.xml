@@ -688,4 +688,39 @@
     <string name="show_channel_details">Prikaži detalje kanala</string>
     <string name="disable_media_tunneling_summary">Iskljuci medija tuneling ako dobivate crni ekran kada gledate video</string>
     <string name="disable_media_tunneling_title">Iskljuci medija tuneling</string>
+    <string name="off">Isklj</string>
+    <string name="on">Uklj</string>
+    <string name="tablet_mode_title">Način rada na tabletu</string>
+    <string name="open_website_license">Otvori stranicu</string>
+    <string name="detail_heart_img_view_description">Srce autora</string>
+    <string name="metadata_privacy_private">Privatno</string>
+    <string name="metadata_privacy_unlisted">Nenavedeno</string>
+    <string name="metadata_privacy_public">Javno</string>
+    <string name="metadata_thumbnail_url">URL minijature</string>
+    <string name="metadata_host">Poslužitelj</string>
+    <string name="metadata_support">Podrška</string>
+    <string name="metadata_language">Jezik</string>
+    <string name="metadata_age_limit">Dobna granica</string>
+    <string name="metadata_licence">Licenca</string>
+    <string name="metadata_tags">Oznake</string>
+    <string name="metadata_category">Kategorija</string>
+    <string name="description_select_disable">Onemogućite odabir teksta u opisu</string>
+    <string name="description_select_enable">Omogućite odabir teksta u opisu</string>
+    <string name="account_terminated">Račun ukinut</string>
+    <string name="feed_toggle_show_played_items">Prikaži pogledane stavke</string>
+    <string name="feed_load_error_terminated">Autorov račun je ukinut.
+\nNewPipe ubuduće neće moći učitavati ovaj feed. 
+\nŽelite li otkazati pretplatu na ovaj kanal\?</string>
+    <string name="feed_load_error_account_info">Nije moguće učitati feed za \'%s\'.</string>
+    <string name="feed_load_error">Pogreška pri učitavanju feeda</string>
+    <string name="downloads_storage_use_saf_summary_api_29">Počevši od Androida 10, podržan je samo \'Storage Access Framework\'</string>
+    <string name="downloads_storage_use_saf_summary_api_19">„Storage Access Framework“ nije podržan na Androidu 4.4 i starijim</string>
+    <string name="downloads_storage_ask_summary_no_saf_notice">Od vas će se tražiti gdje spremiti svako preuzimanje</string>
+    <string name="dont_show">Ne prikazuj</string>
+    <string name="low_quality_smaller">Niska kvaliteta (manji)</string>
+    <string name="high_quality_larger">Visoka kvaliteta (veća)</string>
+    <string name="seekbar_preview_thumbnail_title">Pregled sličica trake za pretraživanje</string>
+    <string name="no_dir_yet">Mapa za preuzimanje još nije postavljena, odaberite zadanu mapu za preuzimanje</string>
+    <string name="comments_are_disabled">Komentari su onemogućeni</string>
+    <string name="mark_as_watched">Označi kao pogledano</string>
 </resources>

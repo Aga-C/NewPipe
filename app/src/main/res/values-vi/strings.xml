@@ -701,4 +701,9 @@
     <string name="downloads_storage_use_saf_summary_api_19">\'Storage Access Framework\' không được hỗ trợ trên Android KitKat và cũ hơn</string>
     <string name="downloads_storage_ask_summary_no_saf_notice">Bạn sẽ được hỏi nơi bạn muốn lưu mỗi mục tải xuống</string>
     <string name="no_dir_yet">Chưa có thư mục tải xuống nào được đặt, hãy chọn thư mục tải xuống mặc định ngay</string>
+    <string name="dont_show">Không hiện</string>
+    <string name="low_quality_smaller">Chất lượng thấp (nhỏ hơn)</string>
+    <string name="high_quality_larger">Chất lượng cao (lớn hơn)</string>
+    <string name="seekbar_preview_thumbnail_title">Xem trước hình thu nhỏ trên thanh tua</string>
+    <string name="comments_are_disabled">Bình luận đang bị tắt</string>
 </resources>
